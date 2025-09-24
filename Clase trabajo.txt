@@ -1,0 +1,26 @@
+Clase trabajo 
+
+Git: colaborar sin conflictos y tener un historial claro de cada cambio en nuestros proyectos
+¿Qué es Git y por qué lo usamos?
+El flujo de trabajo de Git
+Comandos iniciales y esenciales
+Repositorios remotos y GitHub/GitLab
+El trabajo con ramas (branches) 
+Preguntas y respuestas
+
+Figma: la herramienta esencial de diseño, para prototipar interfaces de usuario y colaborar visualmente en los proyectos, preparando el terreno antes de escribir una sola línea de código
+Introducción
+Recorrido por la interfaz
+Organización del proyecto
+Diseño de una pantalla simple
+Prototipado
+Preguntas y respuestas
+
+Docker: la herramienta fundamental que nos permite empaquetar nuestras aplicaciones y sus dependencias en contenedores ligeros, garantizando que funcionen de forma idéntica en cualquier entorno y facilitando el despliegue de nuestros proyectos
+Qué es Docker y por qué lo usamos
+Componentes clave: Imagen y Contenedor
+Comandos iniciales y esenciales
+Introducción a los Dockerfile
+Construir tu primera imagen
+Manejo de volúmenes y Docker Compose
+Preguntas y respuestas
